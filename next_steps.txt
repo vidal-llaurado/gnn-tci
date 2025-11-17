@@ -1,0 +1,11 @@
+- improve features!
+- node labels -- company id
+- tooltips
+- audit the model, aim to improve accuracy
+- portfolio_optimization.py
+- put some order god damn it: /gnn /barabasi-albert README, requirements.txt
+- clean documentation in the code
+
+-- Use dynamic GNN
+
+-- GitHub
